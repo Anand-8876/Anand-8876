@@ -1,4 +1,4 @@
-# Hi there, I'm Anand Singh! 👋
+# Hi there, I'm Anand! 👋
 
 <div align="center">
   

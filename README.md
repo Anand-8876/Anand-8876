@@ -44,30 +44,6 @@ Currently focused on mastering the **MERN stack** and strengthening my foundatio
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=websocket&logoColor=white)
 
 ---
-
-## 🎯 Current Focus
-
-```javascript
-const currentFocus = {
-  learning: [
-    "Building full-stack MERN applications",
-    "Advanced React patterns and performance optimization",
-    "Backend architecture and API design",
-    "Data Structures & Algorithms mastery"
-  ],
-  projects: [
-    "Portfolio website with modern UI/UX",
-    "Real-time chat application",
-    "E-commerce platform with payment integration"
-  ],
-  goals: [
-    "Contributing to open-source projects",
-    "Building scalable web applications",
-    "Mastering system design concepts"
-  ]
-};
-```
-
 ---
 
 ## 📊 GitHub Stats
